@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8">
+    <title>Nome do Site</title>
+  </head>
+  <body>
+    <header>
+      <h1>Bem-vindo ao meu site!</h1>
+      <nav>
+        <a href="index.html">Início</a>
+        <a href="sobre.html">Sobre</a>
+        <a href="portfolio.html">Portfólio</a>
+        <a href="contato.html">Contato</a>
+      </nav>
+    </header>
+
+    <main>
+      <section>
+        <h2>Destaques</h2>
+        <p>Conteúdo principal da página.</p>
+      </section>
+    </main>
+
+    <footer>
+      <p>&copy; 2025 Seu Nome</p>
+    </footer>
+  </body>
+</html>
